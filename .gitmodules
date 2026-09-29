@@ -1,0 +1,48 @@
+[submodule "01-containers-vs-vms"]
+	path = 01-containers-vs-vms
+	url = https://github.com/Algath/Container-vs-VMs.git
+[submodule "02-building-containers-docker"]
+	path = 02-building-containers-docker
+	url = https://github.com/ffavre13/building-containers-demo.git
+[submodule "03-ci-cd-image-builds"]
+	path = 03-ci-cd-image-builds
+	url = https://github.com/Dav0105/docker-ci-cd.git
+[submodule "04-compose-to-kubernetes"]
+	path = 04-compose-to-kubernetes
+	url = https://github.com/val-mon/k8s-demo.git
+[submodule "05-k8s-k3s-microk8s-minikube"]
+	path = 05-k8s-k3s-microk8s-minikube
+	url = https://github.com/FlorianHESWALLIS/k8s-distros-demo.git
+[submodule "06-kafka-data-streams"]
+	path = 06-kafka-data-streams
+	url = https://github.com/g-ae/kafka-presentation-demo.git
+[submodule "07-helm-packaging"]
+	path = 07-helm-packaging
+	url = https://github.com/Vchobu/302-demo.git
+[submodule "08-container-security"]
+	path = 08-container-security
+	url = https://github.com/AlexisKueny/container-security-class.git
+[submodule "09-flyte-caching-typed-interfaces"]
+	path = 09-flyte-caching-typed-interfaces
+	url = https://github.com/Sebastian0211-vs/Flyte_Caching.git
+[submodule "10-retries-idempotence"]
+	path = 10-retries-idempotence
+	url = https://github.com/rdtjulien/302-Retries-and-idempotence.git
+[submodule "11-slurm-vs-kubernetes"]
+	path = 11-slurm-vs-kubernetes
+	url = https://github.com/Zoatik/Slurm-and-Kubernetes.git
+[submodule "12-parquet-internals"]
+	path = 12-parquet-internals
+	url = https://github.com/NatXiao/Demo-Parquet-presentation.git
+[submodule "13-partitioning-small-files"]
+	path = 13-partitioning-small-files
+	url = https://github.com/Neb5384/partitioning.git
+[submodule "14-table-formats-lakehouse"]
+	path = 14-table-formats-lakehouse
+	url = https://github.com/Dyumes/TableFormatsAndTheLakehouse.git
+[submodule "15-object-stores-vs-filesystems"]
+	path = 15-object-stores-vs-filesystems
+	url = https://github.com/Discretos2022/Filesystem-vs-object-store.git
+[submodule "16-pandas-polars-arrow"]
+	path = 16-pandas-polars-arrow
+	url = https://github.com/grey-park/pandas-Polars-Arrow.git
